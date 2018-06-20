@@ -1,8 +1,16 @@
 .jumbotron{
-    background-image url('images/1.jpg') !important;
-    font-family: 'Montserrat', sans-serif;
+    background-color:  url('../1.jpg') !important;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    font-family: 'Montserrat' sans-serif;
     text-align: center;
     color: white;
+}
+
+.jumbotron .container {
+    position: relative;
+    top:100px;
 }
 
 .Headers{
