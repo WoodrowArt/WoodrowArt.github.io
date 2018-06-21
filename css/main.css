@@ -2,9 +2,10 @@
     font-family: 'Montserrat' sans-serif;
     text-align: center;
     color: white;
-    background-image: url('../Images/1.jpg');
+    background: url('../Images/1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     margin-bottom: 0px;
 }
 
