@@ -3,9 +3,9 @@
     text-align: center;
     color: white;
     background-image: url('../Images/1.jpg');
-	background-size: cover;
     background-repeat: no-repeat;
-    height: 400px;
+    background-size: cover;
+    margin-bottom: 0px;
 }
 
 .Headers{
