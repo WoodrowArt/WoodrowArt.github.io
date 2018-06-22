@@ -13,10 +13,23 @@
     font-size: 60px;
 }
 
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
 .SubHeaders{
     font-size: 20px;
 }
 
+.body{
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
 .card{
-    width: 350px;
+    width: 400px;
+    object-fit: cover;
 }
